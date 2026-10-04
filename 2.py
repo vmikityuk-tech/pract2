@@ -4,4 +4,4 @@ name = name.lower()
 if name=='уильям сомерсет моэм':
     print("Верно")
 else:
-    print("Неверно")
+    print('Неверно')
